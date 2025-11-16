@@ -1,6 +1,7 @@
 ---
 title: "SAMIK BOSE"
 ---
+
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <!-- LEFT: PHOTO -->
