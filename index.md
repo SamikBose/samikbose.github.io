@@ -5,7 +5,7 @@ title: "SAMIK BOSE"
 
   <!-- LEFT: PHOTO -->
   <img src="SB.jpg" alt="Samik Bose"
-       style="max-width: 180px; border-radius: 8px; margin-right: 20px;">
+       style="max-width: 150px; border-radius: 50%; margin-right: 20px;">
 
   <!-- RIGHT: TEXT -->
   <div>
