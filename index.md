@@ -4,7 +4,7 @@ title: "SAMIK BOSE"
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <!-- LEFT: PHOTO -->
-  <img src="DSC_0138.JPG" alt="Your Name"
+  <img src="DSC_0138.JPG" alt="Samik Bose"
        style="max-width: 180px; border-radius: 8px; margin-right: 20px;">
 
   <!-- RIGHT: TEXT -->
