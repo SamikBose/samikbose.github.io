@@ -1,6 +1,14 @@
 ---
 title: "SAMIK BOSE"
 ---
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <!-- LEFT: PHOTO -->
+  <img src="me.jpg" alt="Your Name"
+       style="max-width: 180px; border-radius: 8px; margin-right: 20px;">
+
+  <!-- RIGHT: TEXT -->
+  <div>
 
 # Samik Bose
 
