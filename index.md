@@ -15,8 +15,11 @@ title: "SAMIK BOSE"
 Fixed-Term Assistant Professor, Department of Computational Mathematics Science and Engineering
 Michigan State University
 
+
 📍 East Lansing, Michigan, US  
+
 ✉️ bosesami@msu.edu  
+
 
 ---
 
@@ -79,4 +82,5 @@ In future, as an independent faculty, my goal is to combine the complementary st
 ## Contact
 
 Best way to reach me: `bosesami@msu.edu` or `samikbose20121990@gmail.com`.  
+
 You can also find me on [GitHub](https://github.com/SamikBose) and [LinkedIn](https://www.linkedin.com/in/samik-bose-b781b031/).
