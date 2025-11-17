@@ -9,21 +9,17 @@ title: "SAMIK BOSE"
        style="max-width: 180px; border-radius: 8px; margin-right: 20px;">
 
   <!-- RIGHT: TEXT -->
-  <div>
 
-  # Samik Bose
+</div>
+
+
+# Samik Bose
 
   _Fixed-Term Assistant Professor, Department of Computational Mathematics, Science and Engineering_  
   _Michigan State University_  
 
   East Lansing, Michigan, US  
   ✉️ bosesami@msu.edu  
-
-  </div>
-
-</div>
-
----
 
 
 
