@@ -6,7 +6,7 @@ title: "Samik Bose"
 
   <!-- LEFT: PHOTO -->
   <img src="SB.jpg" alt="Samik Bose"
-       style="max-width: 380px; border-radius: 8px; margin-right: 20px;">
+       style="max-width: 180px; border-radius: 8px; margin-right: 20px;">
 
   <!-- RIGHT: TEXT -->
   <div>
@@ -24,24 +24,33 @@ title: "Samik Bose"
 ---
 
 
-## About
+## About:
 
-I am an Assistant Professor working in the Department of Computational Mathematics Science and Engineering at the Michigan State University. I have been teaching various undergraduate and graduate level courses since joining the department e.g., Computational Medicine, Linear Algebra and Matrix Applications, Machine Learning in Molecular Dynamics and Independent Research Study coursework. 
+I am a Fixed-Term Assistant Professor working in the Department of Computational Mathematics Science and Engineering at the Michigan State University. I have been teaching several undergraduate and graduate level courses e.g., Computational Medicine, Linear Algebra and Matrix Applications, Machine Learning in Molecular Dynamics and Independent Research Study coursework, since joining the department in Fall 2024. 
 I am also continuing my postdoctoral research under the mentorship of Prof. Alex Dickson (Biochemistry and Molecular Biology, Michigan State University) in Computational Biophysics and Pharmacology. 
-In future, as an independent faculty, my goal is to combine the complementary strengths of machine learning and theoretical physical chemistry to develop computational methods for pharmacologically relevant processes, augmenting the biomedical/health research by molecular modeling. With my expertise in theoretical chemistry along with endeavors and interest in drug discovery, I hope to provide molecular bases in in solving critical problems related to 'Human Health and Biology'. Hence, I aim to collaborate and enhance the synergy between experiment and computation, utilizing facilities like cryo-EM, NMR, mass spec etc. Currently, I am collaborating actively with experimental scientists across medicinal chemistry (Prof. V. T. Karamyan, Oakland University), cryo-EM/structural biology (Dr. B. J. Orlando, Michigan State University), pharmacology (Dr. K. S. S. Lee, Michigan State University), and biochemistry/structural biology (A. A. Pioszak, University of Oklahoma Health Sciences Center). Continuous endeavors with these research groups at the interface of chemistry, biology and medicine have enlightened me about the current requirement of molecular modeling tools that will enhance the scientific community.
+In future, as an independent faculty, my goal is to combine the complementary strengths of machine learning and theoretical physical chemistry to develop computational methods for pharmacologically relevant long timescale processes, augmenting the biomedical/health research by molecular modeling. With my expertise in theoretical chemistry along with endeavors and interest in drug discovery, I hope to provide molecular bases in in solving critical problems related to 'Human Health and Biology'. Hence, I aim to collaborate and enhance the synergy between experiment and computation, utilizing facilities like cryo-EM, NMR, mass spec etc. 
+Currently, I am collaborating actively with experimental scientists across medicinal chemistry (Prof. V. T. Karamyan, Oakland University), cryo-EM/structural biology (Dr. B. J. Orlando, Michigan State University), pharmacology (Dr. K. S. S. Lee, Michigan State University), and biochemistry/structural biology (A. A. Pioszak, University of Oklahoma Health Sciences Center). Continuous endeavors with these research groups at the interface of chemistry, biology and medicine have enlightened me about the current requirement of molecular modeling tools that will enhance the scientific community.
 
 ---
 
 ## Research
 
-- **Keywords:** computational chemistry, molecular dynamics, machine learning, etc.
-
 - **Project 1** – Predicting kinetics and mechanism of long timescale biomolecular processes by integrating weighted ensemble based molecular dynamics simulation.
-- **Project 2** – Machine learning-driven Flexible Topology simulations to decipher chemotypes of suitable binders in proteins.
 
-- **Project 3** - Providing a biophysical basis in ion-dependent molecular transport in transmembrane proteins.
+- **Project 2** - Decoding structure and mechanism of allosteric modulators in a Zn-metallopeptidase Neurolysin by molecular dynamics and Markov state modeling.
+  
+- **Project 3** – Understanding the chemical attributes of suitable binders in target proteins by machine learning-driven Flexible Topology simulations.
 
-- **Project 4** - Decoding structure and mechanism of allosteric modulators in a Zn-metallopeptidase Neurolysin.
+- **Project 4** - Providing a biophysical basis for molecular transport in transmembrane proteins and GPCRs through molecular modeling and time-lagged dimensionality reduction approaches.
+
+- **Project 5** - Virtual screening of inhibitor candidates in soluble epoxide hydrolase by molecular docking.
+
+- **Future AIM-1** - Improving the efficacy of reversible covalent inhibitors by modeling the 'slow' reactive process through enhanced sampling QM/MM MD and ML/MM MD simulations.
+
+- **Future AIM-2** - Identifying druggable cryptic pockets from directed enhanced sampling search and ML-guided Flexible topology scan for allosteric pharmacophore features binding to those pockets.
+
+
+- **Keywords:** Computational Chemistry, Molecular Dynamics, Machine Learning, Enhanced Sampling, Weighted Ensemnble, Markov State Modeling, QM/MM etc.
 
 ---
 
@@ -76,12 +85,13 @@ In future, as an independent faculty, my goal is to combine the complementary st
 
 ## Teaching
 
-- **Course 1** – Computational Medicine - Fall 2024, 400-level (graduate and undergraduate) - Lead instructor, curriculam development.  
-- **Course 2** – Linear Algebra and Matrix Applications - Spring and Fall 2025 (3 sections in total).
+- **Course 1** – Computational Medicine - Fall 2024, 400-level (graduate and undergraduate) - Lead instructor, curriculam development.
+  
+- **Course 2** – Linear Algebra and Matrix Applications - Spring and Fall 2025, 200-level undergraduate course (3 sections in total) - Section instructor, curriculam development as a team.
 
-- **Course 3** –
+- **Course 3** – Machine Learning in Molecular Dynamics - Spring 2023, 900-level graduate course (1 module: 2 lectures and 2 labs)
 
-- **Course 4** –
+- **Course 4** – Independent Research Study - Summer and Fall 2025, 400-level undergraduate course.
 
 ---
 
