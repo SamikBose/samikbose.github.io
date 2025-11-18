@@ -21,22 +21,37 @@ title: "Samik Bose"
 
 </div>
 
-
-<div style="display:flex; align-items:flex-start; gap:32px;">
+<div style="display:flex; align-items:flex-start; gap:32px; margin-top:24px;">
 
   <!-- LEFT: SIDEBAR NAV -->
   <nav style="min-width:160px;">
     <strong>Navigation</strong><br>
-    <a href="/">Home</a><br>
+    <a href="#about">About</a><br>
     <a href="#research">Research</a><br>
     <a href="#teaching">Teaching</a><br>
     <a href="CV_SamikBose.pdf" target="_blank">CV (PDF)</a><br>
   </nav>
 
   <!-- RIGHT: MAIN CONTENT -->
-<div>
+  <div style="flex:1;">
 
----
+    <h2 id="about">About</h2>
+    <p>
+      I am a Fixed-Term Assistant Professor working in the Department of Computational Mathematics, Science and Engineering at
+      Michigan State University. I have been teaching several undergraduate and graduate level courses e.g., Computational Medicine,
+      Linear Algebra and Matrix Applications, Machine Learning in Molecular Dynamics and Independent Research Study coursework,
+      since joining the department in Fall 2024. I am also continuing my postdoctoral research under the mentorship of Prof. Alex
+      Dickson (Biochemistry and Molecular Biology, Michigan State University) in Computational Biophysics and Pharmacology. In future,
+      as an independent faculty, my goal is to combine the complementary strengths of machine learning and theoretical physical chemistry to develop computational methods for          pharmacologically relevant long timescale processes, augmenting the biomedical/health research by molecular modeling. With my expertise in theoretical chemistry along with       endeavors and interest in drug discovery, I hope to provide molecular bases in in solving critical problems related to 'Human Health and Biology'. Hence, I aim to                collaborate and enhance the synergy between experiment and computation, utilizing facilities like cryo-EM, NMR, mass spec etc. 
+      Currently, I am collaborating actively with experimental scientists across medicinal chemistry (Prof. V. T. Karamyan, Oakland University), cryo-EM/structural biology (Dr.         B. J. Orlando, Michigan State University), pharmacology (Dr. K. S. S. Lee, Michigan State University), and biochemistry/structural biology (A. A. Pioszak, University of         Oklahoma Health Sciences Center). Continuous endeavors with these research groups at the interface of chemistry, biology and medicine have enlightened me about the current       requirement of molecular modeling tools that will enhance the scientific community.
+
+    </p>
+
+    <!-- You can continue with more HTML sections here, or close this div and go back to Markdown -->
+
+  </div>
+</div>
+
 
 ## About:
 
