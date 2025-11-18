@@ -2,10 +2,6 @@
 title: "Hello World!"
 ---
 
----
-title: "Samik Bose"
----
-
 <div style="display: flex; align-items: flex-start; gap: 40px;">
 
   <!-- LEFT COLUMN: Photo -->
