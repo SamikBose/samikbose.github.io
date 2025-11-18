@@ -22,7 +22,19 @@ title: "Samik Bose"
 </div>
 
 ---
+<div style="display:flex; align-items:flex-start; gap:32px;">
 
+  <!-- LEFT: SIDEBAR NAV -->
+  <nav style="min-width:160px;">
+    <strong>Navigation</strong><br>
+    <a href="/">Home</a><br>
+    <a href="#research">Research</a><br>
+    <a href="#teaching">Teaching</a><br>
+    <a href="CV_SamikBose.pdf" target="_blank">CV (PDF)</a><br>
+  </nav>
+
+  <!-- RIGHT: MAIN CONTENT -->
+  <div>
 
 ## About:
 
