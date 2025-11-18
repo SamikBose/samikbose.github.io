@@ -34,7 +34,9 @@ title: "Samik Bose"
   </nav>
 
   <!-- RIGHT: MAIN CONTENT -->
-  <div>
+<div>
+
+---
 
 ## About:
 
