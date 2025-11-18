@@ -37,7 +37,7 @@ title: "Samik Bose"
       <a href="CV_SamikBose.pdf" target="_blank"
          style="text-decoration:none; color:#0066cc;">CV (PDF)</a><br>
     </div>
-    </p>
+  
 
   </div>
 
