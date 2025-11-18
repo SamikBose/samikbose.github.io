@@ -2,21 +2,55 @@
 title: "Hello World!"
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+---
+title: "Samik Bose"
+---
 
-  <!-- LEFT: PHOTO -->
-  <img src="SB.jpg" alt="Samik Bose"
-       style="max-width: 180px; border-radius: 8px; margin-right: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 40px;">
 
-  <!-- RIGHT: TEXT -->
+  <!-- LEFT COLUMN: Photo -->
   <div>
-    <h1>Samik Bose</h1>
-    <p>
+    <img src="SB.jpg" alt="Samik Bose"
+         style="max-width: 220px; border-radius: 10px;">
+  </div>
+
+  <!-- RIGHT COLUMN: Text + Buttons + Navigation -->
+  <div style="flex: 1;">
+
+    <h1 style="margin-top: 0;">Samik Bose</h1>
+
+    <p style="font-size: 1.05em; line-height: 1.45;">
       <em>Fixed-Term Assistant Professor, Department of Computational Mathematics, Science and Engineering</em><br>
       <em>Michigan State University</em><br>
       East Lansing, Michigan, US<br>
-      ✉️ bosesami@msu.edu, samikbose20121990@gmail.com
+      ✉️ bosesami@msu.edu &nbsp; | &nbsp; samikbose20121990@gmail.com
     </p>
+
+    <!-- CV BUTTON -->
+    <a href="CV_SamikBose.pdf" target="_blank"
+       style="
+         display:inline-block;
+         padding:10px 16px;
+         background:#2b7a2b;
+         color:white;
+         border-radius:6px;
+         text-decoration:none;
+         margin-top:10px;
+         font-weight:600;
+       ">
+      📄 Download CV
+    </a>
+
+    <!-- Navigation in sidebar-like style -->
+    <div style="margin-top: 25px;">
+      <strong>Navigation</strong><br>
+      <a href="/" style="text-decoration:none; color:#0066cc;">Home</a><br>
+      <a href="#research" style="text-decoration:none; color:#0066cc;">Research</a><br>
+      <a href="#teaching" style="text-decoration:none; color:#0066cc;">Teaching</a><br>
+      <a href="CV_SamikBose.pdf" target="_blank"
+         style="text-decoration:none; color:#0066cc;">CV (PDF)</a><br>
+    </div>
+
   </div>
 
 </div>
@@ -42,7 +76,7 @@ title: "Hello World!"
       Linear Algebra and Matrix Applications, Machine Learning in Molecular Dynamics and Independent Research Study coursework,
       since joining the department in Fall 2024. I am also continuing my postdoctoral research under the mentorship of Prof. Alex
       Dickson (Biochemistry and Molecular Biology, Michigan State University) in Computational Biophysics and Pharmacology. In future,
-      as an independent faculty, my goal is to combine the complementary strengths of machine learning and theoretical physical chemistry to develop computational methods for          pharmacologically relevant long timescale processes, augmenting the biomedical/health research by molecular modeling. With my expertise in theoretical chemistry along with       endeavors and interest in drug discovery, I hope to provide molecular bases in in solving critical problems related to 'Human Health and Biology'. Hence, I aim to                collaborate and enhance the synergy between experiment and computation, utilizing facilities like cryo-EM, NMR, mass spec etc. 
+      as an independent faculty, my goal is to combine the complementary strengths of machine learning and theoretical physical chemistry to develop computational methods for pharmacologically relevant long timescale processes, augmenting the biomedical/health research by molecular modeling. With my expertise in theoretical chemistry along with endeavors and interest in drug discovery, I hope to provide molecular bases in in solving critical problems related to 'Human Health and Biology'. Hence, I aim to                collaborate and enhance the synergy between experiment and computation, utilizing facilities like cryo-EM, NMR, mass spec etc. 
       Currently, I am collaborating actively with experimental scientists across medicinal chemistry (Prof. V. T. Karamyan, Oakland University), cryo-EM/structural biology (Dr.         B. J. Orlando, Michigan State University), pharmacology (Dr. K. S. S. Lee, Michigan State University), and biochemistry/structural biology (A. A. Pioszak, University of         Oklahoma Health Sciences Center). Continuous endeavors with these research groups at the interface of chemistry, biology and medicine have enlightened me about the current       requirement of molecular modeling tools that will enhance the scientific community.
 
     </p>
@@ -107,7 +141,7 @@ title: "Hello World!"
 
 - **Course 1** – Computational Medicine - Fall 2024, 400-level (graduate and undergraduate) - Lead instructor, curriculam development.
   
-- **Course 2** – Linear Algebra and Matrix Applications - Spring and Fall 2025, 200-level undergraduate course (3 sections in total) - Section instructor, curriculam development as a team.
+- **Course 2** – Linear Algebra and Matrix Applications - Spring and Fall 2025, 300-level undergraduate course (3 sections in total) - Section instructor, curriculam development as a team.
 
 - **Course 3** – Machine Learning in Molecular Dynamics - Spring 2023, 900-level graduate course (1 module: 2 lectures and 2 labs)
 
@@ -119,4 +153,4 @@ title: "Hello World!"
 
 Best way to reach me: `bosesami@msu.edu` or `samikbose20121990@gmail.com`.  
 
-You can also find me on [GitHub](https://github.com/SamikBose) and [LinkedIn](https://www.linkedin.com/in/samik-bose-b781b031/).
+You can also find me on [GitHub](https://github.com/SamikBose) ,  [LinkedIn](https://www.linkedin.com/in/samik-bose-b781b031/) , [Orcid](https://orcid.org/my-orcid?orcid=0000-0002-0273-9162), [ResearchGate](https://www.researchgate.net/profile/Samik-Bose?ev=hdr_xprf) and [Google Scholar](https://scholar.google.co.in/citations?user=VzCHxDQAAAAJ&hl=en)
