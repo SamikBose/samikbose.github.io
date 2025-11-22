@@ -58,16 +58,27 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
 ## Research
 
 - **Project 1** – Predicting kinetics and mechanism of long timescale biomolecular processes by integrating weighted ensemble based molecular dynamics simulation.
-### Inhibitor unbinding from Soluble epoxide hydrolase (sEH) using REVO enhanced sampling MD
-<div style="max-width: 800px; margin: 1rem 0;">
-  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
-    <iframe src="https://player.vimeo.com/video/230944485"
-            style="position:absolute; top:0; left:0; width:100%; height:100%;"
-            frameborder="0"
-            allow="autoplay; fullscreen; picture-in-picture"
-            allowfullscreen>
-    </iframe>
-  </div>
+#### Inhibitor unbinding from Soluble epoxide hydrolase (sEH) using REVO enhanced sampling MD
+<div style="display:flex; flex-wrap:wrap; gap:16px; margin: 1.5rem 0;">
+
+  <figure style="flex:1 1 300px; margin:0;">
+    <img src="/figs/JACS_1.jpeg"
+         alt="Project image 1"
+         style="width:100%; border-radius:8px;">
+    <figcaption style="margin-top:0.4rem; font-size:0.9rem; color:#555;">
+      Fig Caption 
+    </figcaption>
+  </figure>
+
+  <figure style="flex:1 1 300px; margin:0;">
+    <img src="/figs/JACS_2.jpeg "
+         alt="Project image 2"
+         style="width:100%; border-radius:8px;">
+    <figcaption style="margin-top:0.4rem; font-size:0.9rem; color:#555;">
+      Fig Caption
+    </figcaption>
+  </figure>
+
 </div>
 
 - **Project 2** - Decoding structure and mechanism of allosteric modulators in a Zn-metallopeptidase Neurolysin by molecular dynamics and Markov state modeling.
