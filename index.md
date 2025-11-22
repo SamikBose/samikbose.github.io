@@ -27,11 +27,14 @@ title: "Samik Bose"
               color:white; border-radius:6px; text-decoration:none;
               margin-top:10px; font-weight:600;">
       📄 Download CV
-      <a class="btn btn-success btn-lg" href="/research-accomplishments/">Research Accomplishments</a>
-      <a class="btn btn-success btn-lg" href="/future-research/">Future Research Direction</a>
-      <a class="btn btn-success btn-lg" href="/teaching-philosophy/">Teaching Philosophy</a>
-      <a class="btn btn-success btn-lg" href="/dei/">Diversity, Equity, and Inclusion</a>
+    </a>
+    <br>
 
+     <a href="/research-accomplishments/" 
+     style="display:inline-block; padding:10px 16px; background:#2b7a2b;
+          color:white; border-radius:6px; text-decoration:none;
+          margin-top:10px; font-weight:600;">
+      Research Accomplishments
     </a>
 
     <div style="margin-top: 25px;">
