@@ -30,7 +30,7 @@ title: "Samik Bose"
     </a>
     <br>
 
-     <a href="/research-accomplishments/" 
+     <a href="/research-accomplishments.html" 
      style="display:inline-block; padding:10px 16px; background:#2b7a2b;
           color:white; border-radius:6px; text-decoration:none;
           margin-top:10px; font-weight:600;">
