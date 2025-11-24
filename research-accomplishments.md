@@ -19,14 +19,21 @@ My long-term objective is to establish an independent research lab that leverage
 4.	Bose S, Lotz SD, Deb I, Shuck M, Lee KSS, Dickson A. How Robust Is the Ligand Binding Transition State? J Am Chem Soc. 2023 Nov 22;145(46):25318-25331. PubMed Central PMCID: PMC11059145. 
 
 ## B. Positions, Scientific Appointments and Honors
-Positions and Scientific Appointments
+#### Positions and Scientific Appointments:
+
 2024 - present	Fixed Term Assistant Professor, Michigan State University, East Lansing, MI
+
 2021 - 2024	Postdoctoral Research Associate, Michigan State University, East Lansing, MI
+
 2017 - 2020	CSIR-Senior Research Fellow & PhD fellow, Indian Association for the Cultivation of Science, Kolkata, India
+
 2014 - 2017	CSIR-Junior Research Fellow, National Chemical Laboratory, Pune, India
-Honors
+
+### Honors
 2017	Physical and Materials Chemistry Division Day poster award, National Chemical Laboratory, India
+
 2014	National Eligibility Test (NET) PhD fellowship award in Chemistry, Council of Scientific and Industrial Research, India
+
 2014	Graduate Aptitude Test in Engineering PhD fellowship award, National Coordination Board-GATE, India
 
 ## C. Contributions to Science
