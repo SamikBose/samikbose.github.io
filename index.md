@@ -43,14 +43,7 @@ title: "Hello World!"
       News!
     
     </a>
-
-    <div style="margin-top: 35px;">
-      <strong>Navigation</strong><br>
-      <a href="#about" style="text-decoration:none; color:#0066cc;">About</a><br>
-      <a href="#research" style="text-decoration:none; color:#0066cc;">Research</a><br>
-      <a href="#teaching" style="text-decoration:none; color:#0066cc;">Teaching</a><br>
-      <a href="CV_SamikBose.pdf" target="_blank"
-         style="text-decoration:none; color:#0066cc;">CV (PDF)</a><br>
+    
     </div>
   
 </div>
