@@ -53,9 +53,6 @@ title: "Hello World!"
          style="text-decoration:none; color:#0066cc;">CV (PDF)</a><br>
     </div>
   
-
-  </div>
-
 </div>
 
 
@@ -65,7 +62,20 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
 ## Research
 
 - **Project 1** – Predicting kinetics and mechanism of long timescale biomolecular processes by integrating weighted ensemble based molecular dynamics simulation.
-#### Inhibitor unbinding from Soluble epoxide hydrolase (sEH) using REVO enhanced sampling MD
+##### Inhibitor(s) unbinding from Soluble epoxide hydrolase (sEH): REVO enhanced MD data projected in conformational space networks
+<div style="display:flex; flex-wrap:wrap; gap:16px; margin: 1.5rem 0;">
+  <figure style="flex:1 1 300px; margin:0;">
+    <img src="/figs/JACS_2.jpeg "
+         alt="Project image 2"
+         style="width:100%; border-radius:8px;">
+    <figcaption style="margin-top:0.4rem; font-size:0.9rem; color:#555;">
+    </figcaption>
+    CSNs of ligand unbinding from sEH in the scale of the ligand RMSD. The networks are arranged and oriented according to pathway        specificity. Three frames from the most probable unbinding pathways are highlighted for ligand 4 (cavity specificity: left) and       ligand 5 (cavity specificity: right). The states corresponding to those frames are highlighted in the CSNs. In each panel, the         ligands are shown in licorice while the amino acid residues within 2.5 Å of the ligands are depicted in CPK representation, with      the binding site Asp335 and Tyr383 highlighted in vdW representation.
+  </figure>
+</div>
+
+- **Project 2** - Decoding structure and mechanism of allosteric modulators in a Zn-metallopeptidase Neurolysin by molecular dynamics and Markov state modeling.
+##### Inhibitor unbinding from Soluble epoxide hydrolase (sEH) using REVO enhanced sampling MD
 <div style="display:flex; flex-wrap:wrap; gap:16px; margin: 1.5rem 0;">
   <figure style="flex:1 1 300px; margin:0;">
     <img src="/figs/JACS_2.jpeg "
@@ -75,8 +85,6 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
     </figcaption>
   </figure>
 </div>
-
-- **Project 2** - Decoding structure and mechanism of allosteric modulators in a Zn-metallopeptidase Neurolysin by molecular dynamics and Markov state modeling.
   
 - **Project 3** – Understanding the chemical attributes of suitable binders in target proteins by machine learning-driven Flexible Topology simulations.
 
