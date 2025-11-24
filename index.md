@@ -37,7 +37,7 @@ title: "Hello World!"
       Research Accomplishments
     </a>
 
-    <div style="margin-top: 25px;">
+    <div style="margin-top: 35px;">
       <strong>Navigation</strong><br>
       <a href="#about" style="text-decoration:none; color:#0066cc;">About</a><br>
       <a href="#research" style="text-decoration:none; color:#0066cc;">Research</a><br>
@@ -65,7 +65,6 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
          alt="Project image 2"
          style="width:100%; border-radius:8px;">
     <figcaption style="margin-top:0.4rem; font-size:0.9rem; color:#555;">
-      Fig Caption
     </figcaption>
   </figure>
 </div>
