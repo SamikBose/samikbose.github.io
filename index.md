@@ -10,7 +10,7 @@ title: "Hello World!"
          style="max-width: 220px; border-radius: 10px;">
   </div>
 
-  <!-- RIGHT COLUMN: Text + Buttons + Navigation + About -->
+  <!-- RIGHT COLUMN: Text + Buttons -->
   <div style="flex: 1;">
 
     <h1 style="margin-top: 0;">Samik Bose</h1>
@@ -41,9 +41,7 @@ title: "Hello World!"
           color:white; border-radius:6px; text-decoration:none;
           margin-top:10px; font-weight:300;">
       News!
-    
-    </a>
-    
+        
     </div>
   
 </div>
