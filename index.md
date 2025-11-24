@@ -1,5 +1,5 @@
 ---
-title: "Samik Bose"
+title: "Hello World!"
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 40px;">
@@ -60,16 +60,6 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
 - **Project 1** – Predicting kinetics and mechanism of long timescale biomolecular processes by integrating weighted ensemble based molecular dynamics simulation.
 #### Inhibitor unbinding from Soluble epoxide hydrolase (sEH) using REVO enhanced sampling MD
 <div style="display:flex; flex-wrap:wrap; gap:16px; margin: 1.5rem 0;">
-
-  <figure style="flex:1 1 300px; margin:0;">
-    <img src="/figs/JACS_1.jpeg"
-         alt="Project image 1"
-         style="width:100%; border-radius:8px;">
-    <figcaption style="margin-top:0.4rem; font-size:0.9rem; color:#555;">
-      Fig Caption 
-    </figcaption>
-  </figure>
-
   <figure style="flex:1 1 300px; margin:0;">
     <img src="/figs/JACS_2.jpeg "
          alt="Project image 2"
@@ -78,7 +68,6 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
       Fig Caption
     </figcaption>
   </figure>
-
 </div>
 
 - **Project 2** - Decoding structure and mechanism of allosteric modulators in a Zn-metallopeptidase Neurolysin by molecular dynamics and Markov state modeling.
