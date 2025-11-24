@@ -70,7 +70,7 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
 ##### Effect of activator binding in different allosteric sites
 <div style="display:flex; flex-wrap:wrap; gap:16px; margin: 1.5rem 0;">
   <figure style="flex:1 1 300px; margin:0;">
-    <img src="/figs/Fig5_3systems.pdf"
+    <img src="/figs/NLN_work.png"
          alt="Project image 2"
          style="width:100%; border-radius:8px;">
     <figcaption style="margin-top:0.4rem; font-size:0.9rem; color:#555;">
