@@ -53,7 +53,7 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
 
 ## Research
 
-- **Project 1** – Predicting kinetics and mechanism of long timescale biomolecular processes by integrating weighted ensemble based molecular dynamics simulation.
+- **Project 1 – Predicting kinetics and mechanism of long timescale biomolecular processes by integrating weighted ensemble based molecular dynamics simulation.**
 ##### Inhibitor(s) unbinding from Soluble epoxide hydrolase (sEH): REVO enhanced MD data projected in conformational space networks
 <div style="display:flex; flex-wrap:wrap; gap:16px; margin: 1.5rem 0;">
   <figure style="flex:1 1 300px; margin:0;">
@@ -66,15 +66,22 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
   </figure>
 </div>
 
-- **Project 2** - Decoding structure and mechanism of allosteric modulators in a Zn-metallopeptidase Neurolysin by molecular dynamics and Markov state modeling.
-##### Inhibitor unbinding from Soluble epoxide hydrolase (sEH) using REVO enhanced sampling MD
+- **Project 2 - Decoding structure and mechanism of allosteric modulators in a Zn-metallopeptidase Neurolysin by molecular dynamics and Markov state modeling.**
+##### Effect of activator binding in different allosteric sites
 <div style="display:flex; flex-wrap:wrap; gap:16px; margin: 1.5rem 0;">
   <figure style="flex:1 1 300px; margin:0;">
-    <img src="/figs/JACS_2.jpeg "
+    <img src="/figs/Fig5_3systems.pdf"
          alt="Project image 2"
          style="width:100%; border-radius:8px;">
     <figcaption style="margin-top:0.4rem; font-size:0.9rem; color:#555;">
     </figcaption>
+    (A) The reference starting conformation, where all three binding regions are si-
+multaneously occupied. (B) The probability distribution of Open, Semi-open and Closed
+states shown in red, green and blue, respectively. These are shown for apo (crystal), apo
+(open), System I, System II, System III and NLN-10Py-Pip. The most probable poses in
+the closed System-II and open System-III is shown in the adjacent circles. (C) Free energy
+distributions along TIC-1 and TIC-2 for all six systems in our study with representative
+NLN conformations in all the relevant basins shown in the lower panel.
   </figure>
 </div>
   
