@@ -2,6 +2,10 @@
 layout: page
 title: "Research Accomplishments"
 ---
+<style>
+  p { line-height: 1.6; font-size: 1.05rem; }
+  figcaption { color:#777 !important; }
+</style>
 
 # Research Accomplishments
 
