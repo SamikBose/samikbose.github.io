@@ -17,7 +17,8 @@ My long-term objective is to establish an independent research lab that leverage
 2.	Bose S, Dhawan D, Nandi S, Sarkar RR, Ghosh D. Machine learning prediction of interaction energies in rigid water clusters. Phys Chem Chem Phys. 2018 Sep 12;20(35):22987-22996. PubMed PMID: 30156235. 
 3.	Bose S, Kilinc C, Dickson A. Markov State Models with Weighted Ensemble Simulation: How to Eliminate the Trajectory Merging Bias. J Chem Theory Comput. 2025 Feb 25;21(4):1805-1816. PubMed Central PMCID: PMC11866749. 
 4.	Bose S, Lotz SD, Deb I, Shuck M, Lee KSS, Dickson A. How Robust Is the Ligand Binding Transition State? J Am Chem Soc. 2023 Nov 22;145(46):25318-25331. PubMed Central PMCID: PMC11059145. 
-B. Positions, Scientific Appointments and Honors
+
+## B. Positions, Scientific Appointments and Honors
 Positions and Scientific Appointments
 2024 - present	Fixed Term Assistant Professor, Michigan State University, East Lansing, MI
 2021 - 2024	Postdoctoral Research Associate, Michigan State University, East Lansing, MI
