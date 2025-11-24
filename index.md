@@ -35,13 +35,14 @@ title: "Hello World!"
           color:white; border-radius:6px; text-decoration:none;
           margin-top:10px; font-weight:300;">
       Research Accomplishments
+      </a>
 
     <a href="/research-accomplishments.html" 
      style="display:inline-block; padding:10px 16px; background:#2b7a2b;
           color:white; border-radius:6px; text-decoration:none;
           margin-top:10px; font-weight:300;">
       News!
-        
+    </a>
     </div>
   
 </div>
