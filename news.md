@@ -5,6 +5,7 @@
 <h3>2025</h3>
 
 <div class="news-item">
+  
   - Submitted a paper on the <em>conformational dynamics-driven allosteric activation of Neurolysin</em> to the <strong>Biophysical Journal</strong>, November 2025.
   
   - Submitted a paper on <em>discovery of novel allosteric activators of Neurolysin</em> to the <strong>The Journal of Pharmacology and Experimental Therapeutics</strong>, September 2025.
