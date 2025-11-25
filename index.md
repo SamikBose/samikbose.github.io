@@ -1,5 +1,5 @@
 ---
-title: "Hello World!"
+title: "Samik Bose"
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 40px;">
@@ -59,7 +59,7 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
   <figure style="margin:0;">
     <img src="/figs/JACS_2.jpeg"
          alt="Ligand unbinding CSN"
-         style="width:100%; height:auto; border-radius:8px; display:block;">
+         style="width:80%; height:auto; border-radius:8px; display:block;">
     <figcaption style="margin-top:0.6rem; font-size:0.9rem; color:#555; text-align:justify;">
       CSNs of ligand unbinding from sEH in the scale of the ligand RMSD. The networks are arranged
       and oriented according to pathway specificity. Three frames from the most probable unbinding
@@ -78,7 +78,7 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
   <figure style="margin:0;">
     <img src="/figs/NLN_work.png"
          alt="Neurolysin allosteric modulation"
-         style="width:100%; height:auto; border-radius:8px; display:block;">
+         style="width:80%; height:auto; border-radius:8px; display:block;">
     <figcaption style="margin-top:0.6rem; font-size:0.9rem; color:#555; text-align:justify;">
       (A) The reference starting conformation, where all three binding regions are simultaneously
       occupied. (B) Probability distribution of Open, Semi-open and Closed states (red, green and
@@ -96,7 +96,7 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
   <figure style="margin:0;">
     <img src="/figs/Flextop_intro.png"
          alt="Neurolysin allosteric modulation"
-         style="width:100%; height:auto; border-radius:8px; display:block;">
+         style="width:80%; height:auto; border-radius:8px; display:block;">
     <figcaption style="margin-top:0.6rem; font-size:0.9rem; color:#555; text-align:justify;">
     </figcaption>
   </figure>
