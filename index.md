@@ -13,8 +13,6 @@ title: "Samik Bose"
   <!-- RIGHT COLUMN: Text + Buttons -->
   <div style="flex: 1;">
 
-    <h1 style="margin-top: 0;">Samik Bose</h1>
-
     <p style="font-size: 1.05em; line-height: 1.45;">
       <em>Fixed-Term Assistant Professor, Department of Computational Mathematics, Science and Engineering</em><br>
       <em>Michigan State University</em><br>
