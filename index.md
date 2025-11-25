@@ -53,7 +53,7 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
 
 ## Research
 
-- **Project 1: Predicting kinetics and mechanism of long timescale biomolecular processes by integrating weighted ensemble based molecular dynamics simulation with Markov State Modeling.**
+**Project 1: Predicting kinetics and mechanism of long timescale biomolecular processes by integrating weighted ensemble based molecular dynamics simulation with Markov State Modeling.**
 ##### Inhibitor(s) unbinding from Soluble epoxide hydrolase (sEH): REVO enhanced MD data projected in conformational space networks
 <div style="max-width: 900px; margin: 1rem auto;">
   <figure style="margin:0;">
@@ -72,7 +72,7 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
   </figure>
 </div>
 
-- **Project 2: Decoding structure and mechanism of allosteric modulators in a Zn-metallopeptidase Neurolysin by molecular dynamics and Markov state modeling.**
+**Project 2: Decoding structure and mechanism of allosteric modulators in a Zn-metallopeptidase Neurolysin by molecular dynamics and Markov state modeling.**
 ##### Effect of activator binding in different allosteric sites
 <div style="max-width: 900px; margin: 1rem auto;">
   <figure style="margin:0;">
@@ -91,7 +91,7 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
 </div>
 
   
-- **Project 3: Understanding the chemical attributes of suitable binders in target proteins by machine learning-driven Flexible Topology simulations.**
+**Project 3: Understanding the chemical attributes of suitable binders in target proteins by machine learning-driven Flexible Topology simulations.**
 <div style="max-width: 900px; margin: 1rem auto;">
   <figure style="margin:0;">
     <img src="/figs/Flextop_intro.png"
@@ -102,16 +102,16 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
   </figure>
 </div>
 
-- **Project 4: Providing a biophysical basis for molecular transport in transmembrane proteins and GPCRs through molecular modeling and time-lagged dimensionality reduction approaches.**
+**Project 4: Providing a biophysical basis for molecular transport in transmembrane proteins and GPCRs through molecular modeling and time-lagged dimensionality reduction approaches.**
 
-- **Project 5 - Virtual screening of inhibitor candidates in soluble epoxide hydrolase by molecular docking.**
+**Project 5 - Virtual screening of inhibitor candidates in soluble epoxide hydrolase by molecular docking.**
 
-- **Future Research AIM-1** - Improving the efficacy of reversible covalent inhibitors by modeling the 'slow' reactive process through enhanced sampling QM/MM MD and ML/MM MD simulations.
+**Future Research AIM-1** - Improving the efficacy of reversible covalent inhibitors by modeling the 'slow' reactive process through enhanced sampling QM/MM MD and ML/MM MD simulations.
 
-- **Future Research AIM-2** - Identifying druggable cryptic pockets from directed enhanced sampling search and ML-guided Flexible topology scan for allosteric pharmacophore features binding to those pockets.
+**Future Research AIM-2** - Identifying druggable cryptic pockets from directed enhanced sampling search and ML-guided Flexible topology scan for allosteric pharmacophore features binding to those pockets.
 
 
-- **Keywords:** Computational Chemistry, Molecular Dynamics, Machine Learning, Enhanced Sampling, Weighted Ensemnble, Markov State Modeling, QM/MM etc.
+**Keywords:** Computational Chemistry, Molecular Dynamics, Machine Learning, Enhanced Sampling, Weighted Ensemnble, Markov State Modeling, QM/MM etc.
 
 ---
 
