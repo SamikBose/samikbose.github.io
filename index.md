@@ -53,47 +53,68 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
 
 ## Research
 
-- **Project 1 – Predicting kinetics and mechanism of long timescale biomolecular processes by integrating weighted ensemble based molecular dynamics simulation.**
+- **Project 1: Predicting kinetics and mechanism of long timescale biomolecular processes by integrating weighted ensemble based molecular dynamics simulation with Markov State Modeling.**
 ##### Inhibitor(s) unbinding from Soluble epoxide hydrolase (sEH): REVO enhanced MD data projected in conformational space networks
-<div style="display:flex; flex-wrap:wrap; gap:16px; margin: 1.5rem 0;">
-  <figure style="flex:1 1 300px; margin:0;">
-    <img src="/figs/JACS_2.jpeg "
-         alt="Project image 2"
-         style="width:100%; border-radius:8px;">
-    <figcaption style="margin-top:0.4rem; font-size:0.9rem; color:#555;">
+<div style="max-width: 900px; margin: 1rem auto;">
+  <figure style="margin:0;">
+    <img src="/figs/JACS_2.jpeg"
+         alt="Ligand unbinding CSN"
+         style="width:100%; height:auto; border-radius:8px; display:block;">
+    <figcaption style="margin-top:0.6rem; font-size:0.9rem; color:#555; text-align:justify;">
+      CSNs of ligand unbinding from sEH in the scale of the ligand RMSD. The networks are arranged
+      and oriented according to pathway specificity. Three frames from the most probable unbinding
+      pathways are highlighted for ligand 4 (cavity specificity: left) and ligand 5 (cavity
+      specificity: right). The states corresponding to those frames are highlighted in the CSNs.
+      In each panel, the ligands are shown in licorice while the amino acid residues within 2.5 Å
+      of the ligands are depicted in CPK representation, with the binding site Asp335 and Tyr383
+      highlighted in vdW representation.
     </figcaption>
-    CSNs of ligand unbinding from sEH in the scale of the ligand RMSD. The networks are arranged and oriented according to pathway        specificity. Three frames from the most probable unbinding pathways are highlighted for ligand 4 (cavity specificity: left) and       ligand 5 (cavity specificity: right). The states corresponding to those frames are highlighted in the CSNs. In each panel, the         ligands are shown in licorice while the amino acid residues within 2.5 Å of the ligands are depicted in CPK representation, with      the binding site Asp335 and Tyr383 highlighted in vdW representation.
   </figure>
 </div>
 
-- **Project 2 - Decoding structure and mechanism of allosteric modulators in a Zn-metallopeptidase Neurolysin by molecular dynamics and Markov state modeling.**
+- **Project 2: Decoding structure and mechanism of allosteric modulators in a Zn-metallopeptidase Neurolysin by molecular dynamics and Markov state modeling.**
 ##### Effect of activator binding in different allosteric sites
-<div style="display:flex; flex-wrap:wrap; gap:16px; margin: 1.5rem 0;">
-  <figure style="flex:1 1 300px; margin:0;">
+<div style="max-width: 900px; margin: 1rem auto;">
+  <figure style="margin:0;">
     <img src="/figs/NLN_work.png"
-         alt="Project image 2"
-         style="width:100%; border-radius:8px;">
-    <figcaption style="margin-top:0.4rem; font-size:0.9rem; color:#555;">
+         alt="Neurolysin allosteric modulation"
+         style="width:100%; height:auto; border-radius:8px; display:block;">
+    <figcaption style="margin-top:0.6rem; font-size:0.9rem; color:#555; text-align:justify;">
+      (A) The reference starting conformation, where all three binding regions are simultaneously
+      occupied. (B) Probability distribution of Open, Semi-open and Closed states (red, green and
+      blue). These are shown for apo (crystal), apo (open), System I, System II, System III and
+      NLN-10Py-Pip. The most probable poses in the closed System-II and open System-III are shown
+      in the adjacent circles. (C) Free energy distributions along TIC-1 and TIC-2 for all six
+      systems with representative NLN conformations in all relevant basins shown below.
     </figcaption>
-    (A) The reference starting conformation, where all three binding regions are si-
-multaneously occupied. (B) The probability distribution of Open, Semi-open and Closed
-states shown in red, green and blue, respectively. These are shown for apo (crystal), apo
-(open), System I, System II, System III and NLN-10Py-Pip. The most probable poses in
-the closed System-II and open System-III is shown in the adjacent circles. (C) Free energy
-distributions along TIC-1 and TIC-2 for all six systems in our study with representative
-NLN conformations in all the relevant basins shown in the lower panel.
   </figure>
 </div>
+
   
-- **Project 3** – Understanding the chemical attributes of suitable binders in target proteins by machine learning-driven Flexible Topology simulations.
+- **Project 3: Understanding the chemical attributes of suitable binders in target proteins by machine learning-driven Flexible Topology simulations.**
+<div style="max-width: 900px; margin: 1rem auto;">
+  <figure style="margin:0;">
+    <img src="/figs/NLN_work.png"
+         alt="Neurolysin allosteric modulation"
+         style="width:100%; height:auto; border-radius:8px; display:block;">
+    <figcaption style="margin-top:0.6rem; font-size:0.9rem; color:#555; text-align:justify;">
+      (A) The reference starting conformation, where all three binding regions are simultaneously
+      occupied. (B) Probability distribution of Open, Semi-open and Closed states (red, green and
+      blue). These are shown for apo (crystal), apo (open), System I, System II, System III and
+      NLN-10Py-Pip. The most probable poses in the closed System-II and open System-III are shown
+      in the adjacent circles. (C) Free energy distributions along TIC-1 and TIC-2 for all six
+      systems with representative NLN conformations in all relevant basins shown below.
+    </figcaption>
+  </figure>
+</div>
 
-- **Project 4** - Providing a biophysical basis for molecular transport in transmembrane proteins and GPCRs through molecular modeling and time-lagged dimensionality reduction approaches.
+- **Project 4: Providing a biophysical basis for molecular transport in transmembrane proteins and GPCRs through molecular modeling and time-lagged dimensionality reduction approaches.**
 
-- **Project 5** - Virtual screening of inhibitor candidates in soluble epoxide hydrolase by molecular docking.
+- **Project 5 - Virtual screening of inhibitor candidates in soluble epoxide hydrolase by molecular docking.**
 
-- **Future AIM-1** - Improving the efficacy of reversible covalent inhibitors by modeling the 'slow' reactive process through enhanced sampling QM/MM MD and ML/MM MD simulations.
+- **Future Research AIM-1** - Improving the efficacy of reversible covalent inhibitors by modeling the 'slow' reactive process through enhanced sampling QM/MM MD and ML/MM MD simulations.
 
-- **Future AIM-2** - Identifying druggable cryptic pockets from directed enhanced sampling search and ML-guided Flexible topology scan for allosteric pharmacophore features binding to those pockets.
+- **Future Research AIM-2** - Identifying druggable cryptic pockets from directed enhanced sampling search and ML-guided Flexible topology scan for allosteric pharmacophore features binding to those pockets.
 
 
 - **Keywords:** Computational Chemistry, Molecular Dynamics, Machine Learning, Enhanced Sampling, Weighted Ensemnble, Markov State Modeling, QM/MM etc.
