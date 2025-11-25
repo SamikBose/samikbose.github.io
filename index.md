@@ -94,16 +94,10 @@ I am a Fixed-Term Assistant Professor working in the Department of Computational
 - **Project 3: Understanding the chemical attributes of suitable binders in target proteins by machine learning-driven Flexible Topology simulations.**
 <div style="max-width: 900px; margin: 1rem auto;">
   <figure style="margin:0;">
-    <img src="/figs/NLN_work.png"
+    <img src="/figs/Flextop_intro.png"
          alt="Neurolysin allosteric modulation"
          style="width:100%; height:auto; border-radius:8px; display:block;">
     <figcaption style="margin-top:0.6rem; font-size:0.9rem; color:#555; text-align:justify;">
-      (A) The reference starting conformation, where all three binding regions are simultaneously
-      occupied. (B) Probability distribution of Open, Semi-open and Closed states (red, green and
-      blue). These are shown for apo (crystal), apo (open), System I, System II, System III and
-      NLN-10Py-Pip. The most probable poses in the closed System-II and open System-III are shown
-      in the adjacent circles. (C) Free energy distributions along TIC-1 and TIC-2 for all six
-      systems with representative NLN conformations in all relevant basins shown below.
     </figcaption>
   </figure>
 </div>
