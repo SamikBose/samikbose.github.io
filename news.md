@@ -2,6 +2,18 @@
 
 <h2>📰 News</h2>
 
+<h3>2026</h3>
+
+<div class="news-item">
+<ul>
+  <li> First co-corresponding author paper with Orlando lab submitted to PNAS in March, 2026: We present structure and conformational dynamics of transceptor CbrXA along with the mechanistic insight of histidine transport in this paper (https://www.biorxiv.org/content/10.64898/2026.03.10.710862v1).
+  
+  <li> The NIH R21 grant (as co-investigator) with Dr. Ben Orlando on revealing molecular mechanisms of CbrA Transceptor signaling received an impact score of 20 with a high possibility of funding.
+  
+  <li> Secured undergraduate student research fundi
+    
+
+
 <h3>2025</h3>
 
 <div class="news-item">
