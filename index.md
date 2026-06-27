@@ -95,7 +95,33 @@ description: "Samik Bose — computational biophysicist at Michigan State Univer
     <h2 class="section__title">Selected projects</h2>
 
     <div class="project">
-      <span class="project__tag">Project 1 · Kinetics</span>
+      <span class="project__tag">Project 1 · Reactive kinetics</span>
+      <h3 class="project__title">
+        Modeling slow reactive processes — including covalent inhibition — by integrating weighted-ensemble
+        sampling with QM/MM and ML/MM molecular dynamics
+      </h3>
+      <p class="project__sub">
+        A weighted-ensemble framework (wepy + OpenMM) coupled to first-principles and machine-learning
+        potentials: QM/MM in electrostatic embedding via PySCF, and ML/MM via TorchANI and MLForce with a
+        Flexible Topology treatment of the environment.
+      </p>
+      <figure>
+        <img src="/figs/WE_QM_QMMM.png" alt="Weighted-ensemble QM/MM and ML/MM simulation framework for reactive processes">
+        <figcaption>
+          (A) Weighted-ensemble QM/MM: the QM/MM runner (wepy + OpenMM) passes QM-region coordinates and
+          MM-region electrostatics to PySCF, which performs the QM/MM calculation in electrostatic embedding;
+          forces, energies, charges, and dipoles are parsed back to OpenMM. (B) Weighted-ensemble ML/MM: ANI
+          atomic-environment-vector inputs are evaluated by TorchANI and returned through MLForce, with
+          environmental effects captured via a Flexible Topology custom non-bonded force and ANI-MBIS charges.
+          (C) The covalent-inhibition kinetic scheme (k<sub>on</sub>, k<sub>off</sub>, k<sub>inact</sub>,
+          k<sub>rev</sub>) that motivates direct simulation of the slow reactive step.
+          (Panel C adapted from <a href="https://doi.org/10.1021/acs.chemrev.4c00745">Chem. Rev. 2024</a>.)
+        </figcaption>
+      </figure>
+    </div>
+
+    <div class="project">
+      <span class="project__tag">Project 2 · Kinetics</span>
       <h3 class="project__title">
         Predicting the kinetics and mechanism of long-timescale biomolecular processes by integrating
         weighted-ensemble molecular dynamics with Markov state modeling
@@ -118,7 +144,7 @@ description: "Samik Bose — computational biophysicist at Michigan State Univer
     </div>
 
     <div class="project">
-      <span class="project__tag">Project 2 · Allostery</span>
+      <span class="project__tag">Project 3 · Allostery</span>
       <h3 class="project__title">
         Decoding the structure and mechanism of allosteric modulators in the Zn-metallopeptidase
         neurolysin by molecular dynamics and Markov state modeling
@@ -138,7 +164,7 @@ description: "Samik Bose — computational biophysicist at Michigan State Univer
     </div>
 
     <div class="project">
-      <span class="project__tag">Project 3 · ML-driven design</span>
+      <span class="project__tag">Project 4 · ML-driven design</span>
       <h3 class="project__title">
         Understanding the chemical attributes of suitable binders in target proteins through
         machine-learning-driven Flexible Topology simulations
@@ -149,7 +175,7 @@ description: "Samik Bose — computational biophysicist at Michigan State Univer
     </div>
 
     <div class="project">
-      <span class="project__tag">Project 4 · Transport</span>
+      <span class="project__tag">Project 5 · Transport</span>
       <h3 class="project__title">
         A biophysical basis for molecular transport in transmembrane proteins and GPCRs through molecular
         modeling and time-lagged dimensionality-reduction approaches
@@ -157,7 +183,7 @@ description: "Samik Bose — computational biophysicist at Michigan State Univer
     </div>
 
     <div class="project">
-      <span class="project__tag">Project 5 · Virtual screening</span>
+      <span class="project__tag">Project 6 · Virtual screening</span>
       <h3 class="project__title">
         Virtual screening of inhibitor candidates for soluble epoxide hydrolase by molecular docking
       </h3>
@@ -185,6 +211,12 @@ description: "Samik Bose — computational biophysicist at Michigan State Univer
     <p class="eyebrow">Publications</p>
     <h2 class="section__title">Selected publications</h2>
     <ol class="pubs">
+      <!-- TODO: confirm exact title and full author list for this entry -->
+      <li>
+        <strong>S. Bose</strong>, …, B. J. Orlando.
+        “Structure and conformational dynamics of the transceptor CbrXA and the mechanism of histidine transport.”
+        <span class="venue">Protein Science</span> <span class="badge">Under review · co-corresponding</span>
+      </li>
       <li>
         <strong>S. Bose</strong>, A. Aly, V. T. Karamyan, B. J. Orlando, A. Dickson.
         “Conformation-driven enhancement of neurolysin activity in the presence of a small-molecule activator.”

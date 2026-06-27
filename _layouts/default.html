@@ -4,24 +4,17 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {% if page.title %}
-  <title>{{ page.title }} · {{ site.title }}</title>
-  {% else %}
-  <title>{{ site.title }}</title>
-  {% endif %}
+  <title>{% if page.title %}{{ page.title }} · {% endif %}Samik Bose</title>
 
   <meta name="description" content="{{ page.description | default: site.description }}">
   <meta name="author" content="Samik Bose">
 
   <!-- Open Graph / social preview -->
   <meta property="og:type" content="website">
-  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} · {% endif %}Samik Bose">
   <meta property="og:description" content="{{ page.description | default: site.description }}">
-  <meta property="og:image" content="{{ '/SB.jpg' | absolute_url }}">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="https://samikbose.github.io/SB.jpg">
   <meta name="twitter:card" content="summary">
-
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
 
   <!-- Favicon: a small node-link motif -->
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231c5b3a'/%3E%3Cg stroke='%23ffffff' stroke-width='1.4' fill='%23ffffff'%3E%3Cline x1='8' y1='10' x2='16' y2='16'/%3E%3Cline x1='16' y1='16' x2='24' y2='9'/%3E%3Cline x1='16' y1='16' x2='12' y2='24'/%3E%3Cline x1='16' y1='16' x2='23' y2='23'/%3E%3Ccircle cx='8' cy='10' r='2.4'/%3E%3Ccircle cx='24' cy='9' r='2.4'/%3E%3Ccircle cx='16' cy='16' r='2.8'/%3E%3Ccircle cx='12' cy='24' r='2.4'/%3E%3Ccircle cx='23' cy='23' r='2.4'/%3E%3C/g%3E%3C/svg%3E">
@@ -30,21 +23,22 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Spectral:wght@400;500;600&display=swap" rel="stylesheet">
 
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
 
   <nav class="nav">
     <div class="nav__inner">
-      <a class="nav__brand" href="{{ '/' | relative_url }}">Samik Bose</a>
+      <a class="nav__brand" href="/">Samik Bose</a>
       <div class="nav__links">
-        <a href="{{ '/#about' | relative_url }}">About</a>
-        <a href="{{ '/#research' | relative_url }}">Research</a>
-        <a href="{{ '/#publications' | relative_url }}">Publications</a>
-        <a href="{{ '/#teaching' | relative_url }}">Teaching</a>
-        <a href="{{ '/research-accomplishments.html' | relative_url }}">Accomplishments</a>
-        <a href="{{ '/news.html' | relative_url }}">News</a>
-        <a class="cv" href="{{ '/CV_SamikBose.pdf' | relative_url }}" target="_blank" rel="noopener">CV</a>
+        <a href="/#about">About</a>
+        <a href="/#research">Research</a>
+        <a href="/#publications">Publications</a>
+        <a href="/#teaching">Teaching</a>
+        <a href="/research-accomplishments.html">Accomplishments</a>
+        <a href="/news.html">News</a>
+        <a href="/gallery.html">Gallery</a>
+        <a class="cv" href="/CV_SamikBose.pdf" target="_blank" rel="noopener">CV</a>
       </div>
     </div>
   </nav>
