@@ -25,23 +25,24 @@ description: "Photo gallery — conferences, group, and lab moments."
     <div class="gallery-grid">
 
       <figure class="gallery-card">
-        <img src="/figs/gallery/cookout.jpg" alt="Group gathering outdoors">
-        <figcaption>Group hangout — backyard cookout. (edit this caption)</figcaption>
+        <img src="/figs/gallery/campus.jpg" alt="With undergraduate researchers on the MSU campus">
+        <figcaption> With PTR undergraduate students Nathan Emeott and Aadhyaa Gauli on the MSU campus, May 2026. </figcaption>
       </figure>
 
       <figure class="gallery-card">
-        <img src="/figs/gallery/poster.jpg" alt="Student presenting a research poster">
-        <figcaption>Undergraduate poster presentation on neurolysin conformational dynamics by Shawn Weng, UURAF 2025. </figcaption>
+        <img src="/figs/gallery/courtyard.jpg" alt="At the MSU College of Engineering courtyard">
+        <figcaption> With Nathan and Aadhyaa at the MSU College of Engineering courtyard, May 2026. </figcaption>
       </figure>
+
 
       <figure class="gallery-card">
         <img src="/figs/gallery/celebration.jpg" alt="Group celebrating in the office">
-        <figcaption>Celebrating a Dicksonlab milestone. (edit this caption)</figcaption>
+        <figcaption>Celebrating a few important Dicksonlab achievements, April 2026. </figcaption>
       </figure>
 
       <figure class="gallery-card">
-        <img src="/figs/gallery/acs_talk.jpg" alt="Presenting a talk at the ACS meeting">
-        <figcaption> Presenting our work at the ACS Fall Meeting, Washington DC, August 2025. (edit this caption)</figcaption>
+        <img src="/figs/gallery/notre_dame.jpg" alt="Group visit to the University of Notre Dame">
+        <figcaption> Midwest Protein Folding conference at the University of Notre Dame, April 2026. </figcaption>
       </figure>
 
       <figure class="gallery-card">
@@ -50,24 +51,28 @@ description: "Photo gallery — conferences, group, and lab moments."
       </figure>
 
       <figure class="gallery-card">
-        <img src="/figs/gallery/campus.jpg" alt="With undergraduate researchers on the MSU campus">
-        <figcaption> With PTR undergraduate students Nathan Emeott and Aadhyaa Gauli on the MSU campus, April 2026. </figcaption>
+        <img src="/figs/gallery/cookout.jpg" alt="Group gathering outdoors">
+        <figcaption> DicksonLab hangout to celebrate summer milestones, East Lansing, June 2025. </figcaption>
       </figure>
 
       <figure class="gallery-card">
-        <img src="/figs/gallery/courtyard.jpg" alt="At the MSU College of Engineering courtyard">
-        <figcaption> With PTR undergraduate students Nathan Emeott and Aadhyaa Gauli at the MSU College of Engineering courtyard, May 2026. (edit this caption)</figcaption>
+        <img src="/figs/gallery/acs_talk.jpg" alt="Presenting a talk at the ACS meeting">
+        <figcaption> Presenting our work on ligand binding kinetics at the ACS Fall Meeting, Washington DC, August 2025. </figcaption>
       </figure>
 
+
       <figure class="gallery-card">
-        <img src="/figs/gallery/notre_dame.jpg" alt="Group visit to the University of Notre Dame">
-        <figcaption> Midwest Protein Folding conference at the University of Notre Dame, April 2026. (edit this caption)</figcaption>
+        <img src="/figs/gallery/poster.jpg" alt="Student presenting a research poster">
+        <figcaption> Undergraduate poster presentation on Neurolysin conformational dynamics by Shawn Weng, UURAF, May 2025. </figcaption>
       </figure>
+
 
       <figure class="gallery-card">
         <img src="/figs/gallery/games_night.jpg" alt="Group outing">
-        <figcaption>Group outing to celebrate my assistant professor position at High Caliber Carting track, Okemos, May 2024. (edit this caption)</figcaption>
+        <figcaption>Group outing to celebrate my assistant professor position at High Caliber Carting track, Okemos, May 2024. </figcaption>
       </figure>
+
+
 
     </div>
 
