@@ -31,42 +31,42 @@ description: "Photo gallery — conferences, group, and lab moments."
 
       <figure class="gallery-card">
         <img src="/figs/gallery/poster.jpg" alt="Student presenting a research poster">
-        <figcaption>Undergraduate poster presentation on neurolysin conformational fluctuations. (edit this caption)</figcaption>
+        <figcaption>Undergraduate poster presentation on neurolysin conformational dynamics by Shawn Weng, UURAF 2025. </figcaption>
       </figure>
 
       <figure class="gallery-card">
         <img src="/figs/gallery/celebration.jpg" alt="Group celebrating in the office">
-        <figcaption>Celebrating a lab milestone. (edit this caption)</figcaption>
+        <figcaption>Celebrating a Dicksonlab milestone. (edit this caption)</figcaption>
       </figure>
 
       <figure class="gallery-card">
         <img src="/figs/gallery/acs_talk.jpg" alt="Presenting a talk at the ACS meeting">
-        <figcaption>Talk at the ACS Fall Meeting, Washington DC. (edit this caption)</figcaption>
+        <figcaption> Presenting our work at the ACS Fall Meeting, Washington DC, August 2025. (edit this caption)</figcaption>
       </figure>
 
       <figure class="gallery-card">
         <img src="/figs/gallery/group_dinner.jpg" alt="Group dinner">
-        <figcaption>Group dinner. (edit this caption)</figcaption>
+        <figcaption>Group dinner at Alex's place, East Lansing, Oct 2025. </figcaption>
       </figure>
 
       <figure class="gallery-card">
         <img src="/figs/gallery/campus.jpg" alt="With undergraduate researchers on the MSU campus">
-        <figcaption>With undergraduate researchers on the MSU campus. (edit this caption)</figcaption>
+        <figcaption> With PTR undergraduate students Nathan Emeott and Aadhyaa Gauli on the MSU campus, April 2026. </figcaption>
       </figure>
 
       <figure class="gallery-card">
         <img src="/figs/gallery/courtyard.jpg" alt="At the MSU College of Engineering courtyard">
-        <figcaption>At the MSU College of Engineering courtyard. (edit this caption)</figcaption>
+        <figcaption> With PTR undergraduate students Nathan Emeott and Aadhyaa Gauli at the MSU College of Engineering courtyard, May 2026. (edit this caption)</figcaption>
       </figure>
 
       <figure class="gallery-card">
         <img src="/figs/gallery/notre_dame.jpg" alt="Group visit to the University of Notre Dame">
-        <figcaption>Group visit to the University of Notre Dame. (edit this caption)</figcaption>
+        <figcaption> Midwest Protein Folding conference at the University of Notre Dame, April 2026. (edit this caption)</figcaption>
       </figure>
 
       <figure class="gallery-card">
         <img src="/figs/gallery/games_night.jpg" alt="Group outing">
-        <figcaption>Group outing — games night. (edit this caption)</figcaption>
+        <figcaption>Group outing to celebrate my assistant professor position at High Caliber Carting track, Okemos, May 2024. (edit this caption)</figcaption>
       </figure>
 
     </div>
