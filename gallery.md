@@ -14,27 +14,61 @@ description: "Photo gallery — conferences, group, and lab moments."
 <section class="section">
   <div class="wrap">
 
-    <!--
-      HOW TO ADD A PHOTO
-      1. Put your image file in the  figs/  folder (e.g. figs/acs2025.jpg).
-      2. Copy one <figure class="gallery-card"> block below, paste it inside
-         <div class="gallery-grid"> ... </div>, and update the src and caption.
-      3. Remove the .gallery-empty block once you have at least one photo.
-
-      Example card:
-        <figure class="gallery-card">
-          <img src="/figs/acs2025.jpg" alt="ACS Fall Meeting 2025">
-          <figcaption>Presenting neurolysin activator work at the ACS Fall Meeting, Washington DC (2025).</figcaption>
-        </figure>
-    -->
+    <!-- ============================================================
+         EDIT YOUR CAPTIONS HERE
+         For each photo below, change ONLY the text between
+         <figcaption> ... </figcaption>. Leave the <img> lines alone.
+         To reorder photos, move the whole <figure>...</figure> block.
+         To add a new photo: put the file in figs/gallery/ and copy a block.
+         ============================================================ -->
 
     <div class="gallery-grid">
-      <!-- Paste your <figure class="gallery-card"> ... </figure> blocks here -->
-    </div>
 
-    <div class="gallery-empty">
-      Photos coming soon. Add images to the <code>figs/</code> folder and drop a
-      <code>gallery-card</code> block into the grid above.
+      <figure class="gallery-card">
+        <img src="/figs/gallery/cookout.jpg" alt="Group gathering outdoors">
+        <figcaption>Group hangout — backyard cookout. (edit this caption)</figcaption>
+      </figure>
+
+      <figure class="gallery-card">
+        <img src="/figs/gallery/poster.jpg" alt="Student presenting a research poster">
+        <figcaption>Undergraduate poster presentation on neurolysin conformational fluctuations. (edit this caption)</figcaption>
+      </figure>
+
+      <figure class="gallery-card">
+        <img src="/figs/gallery/celebration.jpg" alt="Group celebrating in the office">
+        <figcaption>Celebrating a lab milestone. (edit this caption)</figcaption>
+      </figure>
+
+      <figure class="gallery-card">
+        <img src="/figs/gallery/acs_talk.jpg" alt="Presenting a talk at the ACS meeting">
+        <figcaption>Talk at the ACS Fall Meeting, Washington DC. (edit this caption)</figcaption>
+      </figure>
+
+      <figure class="gallery-card">
+        <img src="/figs/gallery/group_dinner.jpg" alt="Group dinner">
+        <figcaption>Group dinner. (edit this caption)</figcaption>
+      </figure>
+
+      <figure class="gallery-card">
+        <img src="/figs/gallery/campus.jpg" alt="With undergraduate researchers on the MSU campus">
+        <figcaption>With undergraduate researchers on the MSU campus. (edit this caption)</figcaption>
+      </figure>
+
+      <figure class="gallery-card">
+        <img src="/figs/gallery/courtyard.jpg" alt="At the MSU College of Engineering courtyard">
+        <figcaption>At the MSU College of Engineering courtyard. (edit this caption)</figcaption>
+      </figure>
+
+      <figure class="gallery-card">
+        <img src="/figs/gallery/notre_dame.jpg" alt="Group visit to the University of Notre Dame">
+        <figcaption>Group visit to the University of Notre Dame. (edit this caption)</figcaption>
+      </figure>
+
+      <figure class="gallery-card">
+        <img src="/figs/gallery/games_night.jpg" alt="Group outing">
+        <figcaption>Group outing — games night. (edit this caption)</figcaption>
+      </figure>
+
     </div>
 
   </div>
