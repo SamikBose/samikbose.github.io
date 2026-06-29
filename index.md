@@ -71,7 +71,7 @@ description: "Samik Bose — computational biophysicist at Michigan State Univer
       of Prof. Alex Dickson (Biochemistry and Molecular Biology, MSU).
     </p>
     <p>
-      As an independent faculty member, my goal is to combine the complementary strengths of machine
+      As a faculty member, my goal is to combine the complementary strengths of machine
       learning and theoretical physical chemistry to develop computational methods for pharmacologically
       relevant, long-timescale processes — augmenting biomedical and health research through molecular
       modeling. With my expertise in theoretical chemistry and my interest in drug discovery, I aim to
@@ -211,16 +211,21 @@ description: "Samik Bose — computational biophysicist at Michigan State Univer
     <p class="eyebrow">Publications</p>
     <h2 class="section__title">Selected publications</h2>
     <ol class="pubs">
-      <!-- TODO: confirm exact title and full author list for this entry -->
       <li>
-        <strong>S. Bose</strong>, …, B. J. Orlando.
+        <strong>K. Babin, C. Kilinc, S. Bose</strong>, S. E. Gostynska, A. Dickson, A. Pioszak
+        “An allosteric CLR N-terminal swing-out mechanism for RAMP-mediated adrenomedullin receptor selectivity.”
+        <span class="venue"> Under revision in JACS </span>
+      </li>
+      <li>
+        <strong>M. A. Orlando, T. Shah, M. W. Faber,  S. Bose</strong>, B. J. Orlando.
         “Structure and conformational dynamics of the transceptor CbrXA and the mechanism of histidine transport.”
         <span class="venue">Protein Science</span> <span class="badge">Under review · co-corresponding</span>
+        <a href="https://www.biorxiv.org/content/10.64898/2026.03.10.710862v1">bioRxiv preprint</a>
       </li>
       <li>
         <strong>S. Bose</strong>, A. Aly, V. T. Karamyan, B. J. Orlando, A. Dickson.
         “Conformation-driven enhancement of neurolysin activity in the presence of a small-molecule activator.”
-        <span class="venue">Biophysical Journal</span> <span class="badge">Submitted</span>
+        <a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697776v1">bioRxiv preprint</a> <span class="badge">Preprint</span>
       </li>
       <li>
         H. E. L. ElZorkany, H. Kandil, S. Jayaraman, S. H. Esfahani, D. Patel, D. Dannecker, M. Maciag,
