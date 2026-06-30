@@ -212,12 +212,12 @@ description: "Samik Bose — computational biophysicist at Michigan State Univer
     <h2 class="section__title">Selected publications</h2>
     <ol class="pubs">
       <li>
-        <strong>K. Babin, C. Kilinc, S. Bose</strong>, S. E. Gostynska, A. Dickson, A. Pioszak
+        K. Babin, C. Kilinc, <strong>S. Bose</strong>, S. E. Gostynska, A. Dickson, A. Pioszak
         “An allosteric CLR N-terminal swing-out mechanism for RAMP-mediated adrenomedullin receptor selectivity.”
         <span class="venue"> Under revision in JACS </span>
       </li>
       <li>
-        <strong>M. A. Orlando, T. Shah, M. W. Faber,  S. Bose</strong>, B. J. Orlando.
+        M. A. Orlando, T. Shah, M. W. Faber,  <strong>S. Bose</strong>, B. J. Orlando.
         “Structure and conformational dynamics of the transceptor CbrXA and the mechanism of histidine transport.”
         <span class="venue">Protein Science</span> <span class="badge">Under review · co-corresponding</span>
         <a href="https://www.biorxiv.org/content/10.64898/2026.03.10.710862v1">bioRxiv preprint</a>
